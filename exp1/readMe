@@ -1,0 +1,20 @@
+0.gym文件
+	通过gym_tutorial.py熟悉gym.make(),env.reset(),env.step(),env.render()等函数
+
+1.关于lib文件（不用修改）
+	1) 别改libs文件
+
+	2) libs里面包含的内容主要是实验要用到的环境和画图程序
+
+2.mc文件
+
+	1)BlackjackEnv.py ，这个就是blackjack环境
+
+	2)mc.py（实验部分）
+
+
+3.td文件
+
+	1)cliff_walk.py,这个主要用于让你熟悉cliff环境
+
+	2）sarsa.py, qlearning.py（实验部分）
