@@ -1,2 +1,5 @@
 help.py
 __pycache__/
+.vscode/
+checkpoint/
+tensorboard_logs/
